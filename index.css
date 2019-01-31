@@ -1,0 +1,32 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#welcomeimg {
+    width: 100%;
+}
+
+#tositecon {
+    width:100%;
+    height: 50px;
+    text-align: center;
+}
+
+#tositecon button {
+    height: 50px;
+    width: 400px;
+    border: none;
+    background-color: yellow;
+    font-size: 16pt;
+}
+
+#tositecon button:hover {
+    cursor: pointer;
+}
+
+html,body {
+    background-color: #4C0B5F;
+    color: white;
+}

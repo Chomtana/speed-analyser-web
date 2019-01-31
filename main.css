@@ -1,0 +1,41 @@
+.chart {
+	height: 400px; margin: 0 auto;
+}
+
+.highcharts-container {
+    width: 100%;
+}
+
+.player-group {
+    padding : 10px;
+    border: 1px solid;
+    width: 100%;
+}
+
+.player {
+    display: flex;
+    flex-direction: column;
+}
+
+.player-label {
+    text-align : center;
+}
+
+#input-form {
+    padding: 10px;
+}
+
+.modal {
+    color: black;
+}
+
+.docframe {
+	width: 100%;
+	height: calc(100vh - 225px);
+}
+
+html,body {
+    background-color: #9C27B0;
+    color: white;
+    padding: 10px;
+}
